@@ -7,6 +7,8 @@ Breu descripció del que s'ha realitzat en aquesta PAC, dificultats, millores re
 
 Enllaç de GIT: https://github.com/jjunycanals/PAC4.git
 
+git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/jjunycanals/PAC3.git git push -u origin main
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.5.
 
